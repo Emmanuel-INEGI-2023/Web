@@ -6,3 +6,7 @@ function tema(){
     $("body").css({"background":"white","color":"black"})
 
 }
+
+$var = x=>{
+    console.log(x)
+}
